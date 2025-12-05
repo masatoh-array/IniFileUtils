@@ -192,7 +192,7 @@ Level=Info
 
 ## License
 
-MIT License - Feel free to use in commercial and personal projects.
+Free
 
 ## Contributing
 
@@ -206,3 +206,4 @@ Contributions, bug reports, and feature requests are welcome on GitHub.
 - Comment preservation
 - Shift-JIS encoding support
 - .NET Framework 4.8+ and .NET Core 3.1+ compatibility
+
